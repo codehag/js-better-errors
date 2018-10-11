@@ -1,4 +1,4 @@
-# better-errors
+# JS better-errors
 
 `undefined is not a function`
 
