@@ -5,3 +5,4 @@ This has some nice examples for friendly wording for error messages. [added by @
 
 ### Blog Posts
 * [Compiler Errors for Humans](https://elm-lang.org/blog/compiler-errors-for-humans) - an interesting blog post from Elm about what is important is showing error messages
+* [JavaScript Errors and How to Fix Them](https://davidwalsh.name/fix-javascript-errors)
